@@ -1,6 +1,6 @@
 
 def linear_search(li , size , key):
-
+    
     if size == 0 :
         return -1 
     elif li[0] == key:
